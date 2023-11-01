@@ -95,5 +95,4 @@ Conduct thorough market research to understand your target audience, competition
 Content Acquisition:
 Secure a library of high-quality content for your platform. This may include licensing content from studios, acquiring user-generated content, or creating your original content.
 Properly categorize and tag your content to make it easily discoverable by users. Use relevant metadata to describe videos accurately.
-Payment and Subscription Models:
 
